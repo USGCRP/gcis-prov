@@ -34,4 +34,4 @@ curl -F "prov_es=<prov_es.json" http://192.168.56.101:8888/api/v0.1/prov_es/impo
 
 ## Demo
 
-http://prov-es.jpl.nasa.gov/beta
+https://gcis-search-stage.jpl.net/provenance
